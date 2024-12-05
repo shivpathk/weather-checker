@@ -36,7 +36,7 @@ export default function RootLayout({
                 <ModeToggle />
                 <LocationDialog />
                 <Button className="font-semibold" asChild>
-                  <Link href="https://github.com/oktay/weather" target="_blank">
+                  <Link href="https://github.com/shivpathk/weather-checker" target="_blank">
                     <BookMarkedIcon size={18} className="md:mr-2" />
                     <span className="sr-only md:not-sr-only">Source Code</span>
                   </Link>
